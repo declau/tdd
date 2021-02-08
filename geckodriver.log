@@ -8,3 +8,14 @@ JavaScript error: resource://gre/modules/TelemetryUtils.jsm, line 159: TypeError
 1612794987221	Marionette	INFO	Listening on port 37759
 1612794987335	Marionette	WARN	TLS certificate errors will be ignored for this session
 1612794987370	Marionette	ERROR	[15] No reply from Marionette:Register
+console.info: MINT: main/search-config update being skipped
+1612795944278	geckodriver	INFO	Listening on 127.0.0.1:34747
+1612795944287	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileo6vHPJ"
+console.info: MINT: Trying to use the system region (based on LANG).
+console.info: MINT: System region is BR
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.info: MINT: Loading search-config defaults.
+JavaScript error: resource://gre/modules/TelemetryUtils.jsm, line 159: TypeError: date is undefined
+1612795948170	Marionette	INFO	Listening on port 43491
+1612795948244	Marionette	WARN	TLS certificate errors will be ignored for this session
+1612795948270	Marionette	ERROR	[15] No reply from Marionette:Register
