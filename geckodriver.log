@@ -1,0 +1,10 @@
+1612794982872	geckodriver	INFO	Listening on 127.0.0.1:44029
+1612794982878	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileemwFwt"
+console.info: MINT: Trying to use the system region (based on LANG).
+console.info: MINT: System region is BR
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.info: MINT: Loading search-config defaults.
+JavaScript error: resource://gre/modules/TelemetryUtils.jsm, line 159: TypeError: date is undefined
+1612794987221	Marionette	INFO	Listening on port 37759
+1612794987335	Marionette	WARN	TLS certificate errors will be ignored for this session
+1612794987370	Marionette	ERROR	[15] No reply from Marionette:Register
